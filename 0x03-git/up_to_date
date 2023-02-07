@@ -1,2 +1,3 @@
 step1: git branch--set-upstream-to origin/main
 step2: git pull
+you get the changes made to the remote file
