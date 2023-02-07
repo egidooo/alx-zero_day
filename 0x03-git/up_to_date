@@ -1,0 +1,3 @@
+step1:git branch --set-upstream-to origin/main
+step2: git pull
+
